@@ -1,7 +1,7 @@
 ![RyodoTanaka's github stats](https://github-readme-stats.vercel.app/api?username=Ramune6110)
 
 <!--- 🔭 I’m currently working on ... -->
--- 🌱 I’m currently learning ...
+ 🌱 I’m currently learning ...
   - Control Engineering
   - Machine Learning
   - Nonlinear Kalman Filter
