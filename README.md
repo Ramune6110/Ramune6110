@@ -17,6 +17,7 @@
   <!--Arduino--><img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <!--mbed--><img src="https://img.shields.io/badge/mbed-%2300f.svg?&style=for-the-badge&logo=mbed&logoColor=white"/>
   <!--NUCLEO--><img src="https://img.shields.io/badge/NUCLEO%20-%23013243.svg?&style=for-the-badge&logo=NUCLEO&logoColor=white" />
+  <!--RPi--><img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
   <!--ROS--><img src="https://img.shields.io/badge/ROS-%2300f.svg?&style=for-the-badge&logo=ROS&logoColor=white"/>
 </p>
 
