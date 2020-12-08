@@ -4,7 +4,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Ramune6110&theme=onedark" />
 
 ## Programming Languages :memo:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramune6110&layout=compact&hide=html,css,vhdl,verilog&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramune6110&layout=compact&hide=html&theme=dark)
 
 ## Development Tools
 
