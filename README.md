@@ -4,7 +4,9 @@
 <img src="https://github-profile-trophy.vercel.app/?username=Ramune6110&theme=onedark" />
 
 ## Programming Languages :memo:
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramune6110&layout=compact&hide=html&theme=dark)--> [![](https://raw.githubusercontent.com/Ramune6110/Ramune6110/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramune6110&layout=compact&hide=html&theme=dark)-->
+
+ [![](https://raw.githubusercontent.com/Ramune6110/Ramune6110/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
  
 ## Development Tools
