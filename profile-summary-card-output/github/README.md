@@ -22,3 +22,23 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/Ramune6110/Ramune6110/master/profile-summary-card-output/github/2-most-commit-language.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/Ramune6110/Ramune6110/master/profile-summary-card-output/github/4-productive-time.svg)
+```
+
+    
