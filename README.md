@@ -17,9 +17,6 @@
   <a href="https://github.com/Ramune6110/Autonomous_Mobile_Robot_Project" target="_blank">
     <img width="40%" height="40%" src="https://user-images.githubusercontent.com/52307432/132449921-68da228c-21d7-4385-a3d9-8703e3d03504.jpg">
   </a>
-  <a href="https://github.com/TSUKUBA-CHALLENGE/CAD" target="_blank">
-    <img width="40%" height="40%" src="https://user-images.githubusercontent.com/52307432/132451225-744a3176-a1a2-4e90-81c2-50af0e886a8b.png">
-  </a>
   <a href="https://github.com/Ramune6110/Model_Predictive_Control_with_Obstacle_Avoidance" target="_blank">
     <img width="40%" height="40%" src="https://github.com/Ramune6110/Model_Predictive_Control_with_Obstacle_Avoidance/blob/main/figures/multiagent_control.gif">
   </a>
