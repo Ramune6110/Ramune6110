@@ -20,7 +20,7 @@
   <a href="https://github.com/Ramune6110/Model_Predictive_Control_with_Obstacle_Avoidance" target="_blank">
     <img width="40%" height="40%" src="https://github.com/Ramune6110/Model_Predictive_Control_with_Obstacle_Avoidance/blob/main/figures/multiagent_control.gif">
   </a>
-  <a href="https://github.com/Ramune6110/Model_Predictive_Control_with_Obstacle_Avoidance" target="_blank">
+  <a href="https://github.com/Arcanain" target="_blank">
     <img width="40%" height="40%" src="https://user-images.githubusercontent.com/52307432/193039861-25bf0707-f249-4ac9-9ae3-bb6ad180d643.JPG">
   </a>
 </p>
